@@ -1,14 +1,22 @@
 .jumbotron {
     background: url(../img/bg.jpg);
     background-size: cover;
-    background-position:left bottom;
-    color:#fff;
+    background-position: left bottom;
+    color: #fff;
     width: 100%;
     height: 400px;
-    margin-top:-45px;
+    margin-top: -45px;
 }
 
 
 .brand-name {
     padding-top: 60px;
+}
+
+.screenshots {
+    background: #fafafa;
+}
+
+.screenshots img {
+    width: inherit;
 }
